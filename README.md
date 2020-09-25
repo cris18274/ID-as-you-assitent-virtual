@@ -17,7 +17,7 @@ Recorder:
 
 Have you that account in Api-News http://newsapi.org/v2/everything?q=bitcoin&from=2020-08-21&sortBy=publishedAt&apiKey=API_KEY
 
-Have you that account in Wolframalpha 
+Have you that account in Wolframalpha https://www.wolframalpha.com/
 
 Finally:
 
